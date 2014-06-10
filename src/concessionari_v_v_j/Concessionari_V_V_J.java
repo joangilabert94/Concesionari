@@ -3,7 +3,7 @@ package concessionari_v_v_j;
 
 /**
  *
- * @author Joan Gilabert Bataller
+ * @author Joan Gilabert Bataller (joangilabert94)
  */
 public class Concessionari_V_V_J {
 
